@@ -16,4 +16,5 @@ A 6-month Proof of Resources Epoch, rewarding nodes based on their node capacity
  
 ---
 Hardware Requirement: https://documentation.codeblocklabs.com/blockchain-nodes/blockcast
+
 How to Install are available on our official documentation: https://documentation.codeblocklabs.com/blockchain-nodes/blockcast/installation
